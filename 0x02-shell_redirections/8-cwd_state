@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "long isting of details about the contents of a directory" > ls_cwd_content
+echo "ls -la" > ls_cwd_content
